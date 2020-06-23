@@ -3,6 +3,7 @@ using Xamarin.Forms;
 using XamEFCore.Droid.Implementations;
 using XamEFCore.Interfaces;
 
+
 [assembly: Dependency(typeof(ConfigDataBase))]
 namespace XamEFCore.Droid.Implementations
 {

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 namespace XamEFCore.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -15,6 +16,7 @@ namespace XamEFCore.Views
         public AlbumesPage()
         {
             InitializeComponent();
+          
         }
     }
 }

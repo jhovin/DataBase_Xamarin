@@ -35,6 +35,6 @@ namespace XamEFCore.ViewModels
                 Application.Current.MainPage.Navigation.PushAsync(new AlbumesPage());
         }
         #endregion Methods
-
     }
 }
+

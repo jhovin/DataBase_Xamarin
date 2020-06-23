@@ -14,3 +14,4 @@ C:\xamarin\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamlC.stamp
 C:\xamarin\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.dll
 C:\xamarin\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\ref\XamEFCore.dll
 C:\xamarin\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.pdb
+C:\xamarin\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.csprojAssemblyReference.cache

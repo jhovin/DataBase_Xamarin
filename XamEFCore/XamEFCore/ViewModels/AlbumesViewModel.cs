@@ -69,7 +69,7 @@ namespace XamEFCore.ViewModels
             this.dataServiceArtistas = new DBDataAccess<Artista>();
             this.dataServiceAlbumes = new DBDataAccess<Album>();
 
-            //this.CreateArtistas();
+            this.CreateArtistas();
 
             this.LoadArtistas();
             this.LoadAlbumes();
@@ -143,6 +143,6 @@ namespace XamEFCore.ViewModels
             this.dataServiceArtistas.SaveList(artistas);
         }
         #endregion Methods
-
     }
 }
+

@@ -7,6 +7,7 @@
              xmlns:ViewModel="clr-namespace:XamEFCore.ViewModels"
              x:Class="XamEFCore.Views.AlbumPage"
              Title="Crear nuevo Album">
+    
     <ContentPage.BindingContext>
         <ViewModel:AlbumesViewModel/>
     </ContentPage.BindingContext>
@@ -52,3 +53,4 @@
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
+

@@ -27,7 +27,7 @@ namespace XamEFCore.ViewModels
         {
             this.LoadMenu();
 
-            //this.SaveArtistasList();
+            this.SaveArtistasList();
         }
         #endregion Constructor
 
